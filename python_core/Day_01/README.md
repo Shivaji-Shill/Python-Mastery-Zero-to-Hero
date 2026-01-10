@@ -1,7 +1,7 @@
 # Day 1 – User Input & Basic Calculation
 
 ![Day 1 Banner](./banner_day01.png)
-
+![Day 1 Banner](./banner_day1.png)
 ---
 
 ## 🚀 What We Learned Today
